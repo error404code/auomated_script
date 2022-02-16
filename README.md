@@ -1,2 +1,2 @@
-# auomated_script
+# automated_script
 Bot script using Python
